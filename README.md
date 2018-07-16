@@ -1,5 +1,5 @@
 # Inverse Reinforcement Learning (IRL) Papers
-![2018CVPR IRL Tutorial Video](https://www.youtube.com/watch?v=JbNeLiNnvII)
+[2018CVPR IRL Tutorial Video](https://www.youtube.com/watch?v=JbNeLiNnvII)
 1. Algorithms for Inverse Reinforcement Learning
 2. Apprenticeship Learning via Inverse Reinforcement Learning
 3. Maximum Margin Planning
