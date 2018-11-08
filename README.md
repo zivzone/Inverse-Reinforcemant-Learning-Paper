@@ -8,3 +8,6 @@
 6. Maximum Entropy Inverse Reinforcement Learning
 7. Generative Adversarial Imitation Learning
 8. A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models
+9. Learning agents for uncertain environments - Russell (1998)
+10.Apprenticeship Learning via Inverse Reinforcement Learning Supplementary Material - Abbeel & Ng (2004)
+11.Apprenticeship Learning using Inverse Reinforcement Learning and Gradient Methods - Neu & Szepesvari (2007)
