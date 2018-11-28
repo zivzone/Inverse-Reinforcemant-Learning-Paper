@@ -12,3 +12,4 @@
 10. Apprenticeship Learning via Inverse Reinforcement Learning Supplementary Material - Abbeel & Ng (2004)
 11. Apprenticeship Learning using Inverse Reinforcement Learning and Gradient Methods - Neu & Szepesvari (2007)
 12. Bayesian Inverse Reinforcement Learning (2007)
+13. Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations(2018 ICML)
