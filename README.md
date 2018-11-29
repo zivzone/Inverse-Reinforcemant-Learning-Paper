@@ -13,3 +13,4 @@
 11. Apprenticeship Learning using Inverse Reinforcement Learning and Gradient Methods - Neu & Szepesvari (2007)
 12. Bayesian Inverse Reinforcement Learning (2007)
 13. Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations(2018 ICML)
+14. Active Learning for Reward Estimation in Inverse Reinforcement Learning(2009)
