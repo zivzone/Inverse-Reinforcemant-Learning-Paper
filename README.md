@@ -14,4 +14,5 @@
 12. Bayesian Inverse Reinforcement Learning (2007)
 13. Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations(2018 ICML)
 14. Active Learning for Reward Estimation in Inverse Reinforcement Learning(2009 ECML)
-15. Multi-Robot Inverse Reinforcement Learning under Occlusion with Interactions(2014 )
+15. Multi-Robot Inverse Reinforcement Learning under Occlusion with Interactions(2014 AAMAS)
+16. Inverse Reinforcement Learning algorithms and features for robot navigation in crowds: An experimental comparison(2014 IROS)
