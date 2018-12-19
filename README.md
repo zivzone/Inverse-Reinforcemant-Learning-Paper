@@ -16,3 +16,7 @@
 14. Active Learning for Reward Estimation in Inverse Reinforcement Learning(2009 ECML)
 15. Multi-Robot Inverse Reinforcement Learning under Occlusion with Interactions(2014 AAMAS)
 16. Inverse Reinforcement Learning algorithms and features for robot navigation in crowds: An experimental comparison(2014 IROS)
+17. Teaching Inverse Reinforcement Learners via Features and Demonstrations(2018 NIPS; Luis Haug,Sebastian Tschiatschek,Adish Singla)
+18. Multi-Agent Generative Adversarial Imitation Learning(2018 NIPS; Jiaming Song,Hongyu Ren,Dorsa Sadigh,Stefano Ermon)
+19. Lifelong Inverse Reinforcement Learning(2018 NIPS; Jorge A. Mendez, Shashank Shivkumar, and Eric Eaton)
+
