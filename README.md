@@ -19,4 +19,7 @@
 17. Teaching Inverse Reinforcement Learners via Features and Demonstrations(2018 NIPS; Luis Haug,Sebastian Tschiatschek,Adish Singla)
 18. Multi-Agent Generative Adversarial Imitation Learning(2018 NIPS; Jiaming Song,Hongyu Ren,Dorsa Sadigh,Stefano Ermon)
 19. Lifelong Inverse Reinforcement Learning(2018 NIPS; Jorge A. Mendez, Shashank Shivkumar, and Eric Eaton)
+20. Competitive Multi-agent Inverse Reinforcement Learning with Sub-optimal Demonstrations(2018 ICML; Xingyu Wang, Diego Klabjan)
+21. Synthesizing Programs for Images using Reinforced Adversarial Learning(2018 ICML; Yaroslav Ganin, Tejas Kulkarni, Igor Babuschkin, S. M. Ali Eslami, Oriol Vinyals)
+22. An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning(2018 ICML; Dhruv Malik, Malayandi Palaniappan, Jaime Fisac, Dylan Hadfield-Menell, Stuart Russell, Anca Dragan )
 
