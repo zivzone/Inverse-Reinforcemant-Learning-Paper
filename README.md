@@ -1,5 +1,5 @@
 # Inverse Reinforcement Learning (IRL) Papers
-## Tutorial
+## Tutorial/
 - [thinkingwires](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 - [2018CVPR IRL Tutorial Video](https://www.youtube.com/watch?v=JbNeLiNnvII)
 ## Paper
