@@ -1,6 +1,6 @@
 # Inverse Reinforcement Learning (IRL) Papers
 ## Tutorial/Blog
-- [thinkingwires](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+- [Thinkingwires](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 - [2018CVPR IRL Tutorial Video](https://www.youtube.com/watch?v=JbNeLiNnvII)
 - [Max's Blog](http://178.79.149.207/posts/inverse-reinforcement-learning.html)
 - [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)
