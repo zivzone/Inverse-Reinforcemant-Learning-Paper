@@ -5,6 +5,7 @@
 - [Max's Blog](http://178.79.149.207/posts/inverse-reinforcement-learning.html)
 - [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)
 - [CSDN-漫谈逆向强化学习](https://blog.csdn.net/philthinker/article/details/79778271)
+- [Toward Data Science](https://towardsdatascience.com/inverse-reinforcement-learning-6453b7cdc90d)
 ## Paper
 1. Algorithms for Inverse Reinforcement Learning
 2. Apprenticeship Learning via Inverse Reinforcement Learning
