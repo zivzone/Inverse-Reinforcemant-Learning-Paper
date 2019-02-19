@@ -32,4 +32,6 @@
 21. Synthesizing Programs for Images using Reinforced Adversarial Learning(2018 ICML; Yaroslav Ganin, Tejas Kulkarni, Igor Babuschkin, S. M. Ali Eslami, Oriol Vinyals)
 22. An Efficient, Generalized Bellman Update For Cooperative Inverse Reinforcement Learning(2018 ICML; Dhruv Malik, Malayandi Palaniappan, Jaime Fisac, Dylan Hadfield-Menell, Stuart Russell, Anca Dragan )
 23. Integrating kinematics and environment context into deep inverse reinforcement learning for predicting off-road vehicle trajectories(2018 CoRL; Yanfu Zhang, Wenshan Wang, Rogerio Bonatti, Daniel Maturana, Sebastian Scherer)
+24. Adversarial Imitation via Variational Inverse Reinforcement Learning(2019 ICLR; Ahmed H. Qureshi, Byron Boots, Michael C. Yip)
+
 
