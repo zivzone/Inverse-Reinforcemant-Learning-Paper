@@ -34,5 +34,5 @@
 23. Integrating kinematics and environment context into deep inverse reinforcement learning for predicting off-road vehicle trajectories(2018 CoRL; Yanfu Zhang, Wenshan Wang, Rogerio Bonatti, Daniel Maturana, Sebastian Scherer)
 24. Adversarial Imitation via Variational Inverse Reinforcement Learning(2019 ICLR; Ahmed H. Qureshi, Byron Boots, Michael C. Yip)
 25. A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress [link](https://arxiv.org/abs/1806.06877)
-
+26. Inverse reinforcement learning control for trajectory tracking of a multirotor UAV(2017 International Journal of Control, Automation and Systems)
 
