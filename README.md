@@ -36,4 +36,4 @@
 25. A Survey of Inverse Reinforcement Learning: Challenges, Methods and Progress [link](https://arxiv.org/abs/1806.06877)
 26. Inverse reinforcement learning control for trajectory tracking of a multirotor UAV(2017 International Journal of Control, Automation and Systems)
 27. Inverse reinforcement learning for video games(2018 NIPS workshop; Aaron Tucker, Adam Gleave, Stuart Russell)
-28. A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models
+
