@@ -9,6 +9,7 @@
 - [Udacity](https://www.youtube.com/watch?v=h7uGyBcIeII)
 - [知乎CS 294: Deep Reinforcement Learning：IRL](https://zhuanlan.zhihu.com/p/32502503)
 ## Code/Repo
+- [Inverse-Reinforcement-Learning](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
 ## Paper
 1. Algorithms for Inverse Reinforcement Learning
 2. Apprenticeship Learning via Inverse Reinforcement Learning
