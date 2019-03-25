@@ -38,4 +38,4 @@
 27. Inverse reinforcement learning for video games(2018 NIPS workshop; Aaron Tucker, Adam Gleave, Stuart Russell)
 28. Inverse Reinforcement Learning via Deep Gaussian Process(Ming Jin, Andreas Damianou, Pieter Abbeel, Costas Spanos)
 29. Learning Robust Rewards with Adversarial Inverse Reinforcement Learning(ICLR 2018; Justin Fu, Katie Luo, Sergey Levine)
-
+30. MaxEnt IRL with neural net reward function, known dynamics(Wulfmeier et al)
