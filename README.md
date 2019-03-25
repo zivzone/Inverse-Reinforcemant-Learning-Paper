@@ -8,6 +8,7 @@
 - [Toward Data Science](https://towardsdatascience.com/inverse-reinforcement-learning-6453b7cdc90d)
 - [Udacity](https://www.youtube.com/watch?v=h7uGyBcIeII)
 - [知乎CS 294: Deep Reinforcement Learning：IRL](https://zhuanlan.zhihu.com/p/32502503)
+## Code/Repo
 ## Paper
 1. Algorithms for Inverse Reinforcement Learning
 2. Apprenticeship Learning via Inverse Reinforcement Learning
