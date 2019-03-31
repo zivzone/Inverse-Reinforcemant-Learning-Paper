@@ -8,6 +8,7 @@
 - [Toward Data Science](https://towardsdatascience.com/inverse-reinforcement-learning-6453b7cdc90d)
 - [Udacity](https://www.youtube.com/watch?v=h7uGyBcIeII)
 - [知乎CS 294: Deep Reinforcement Learning：IRL](https://zhuanlan.zhihu.com/p/32502503)
+- [Coursera](https://www.coursera.org/lecture/reinforcement-learning-in-finance/rl-and-inverse-reinforcement-learning-solutions-oHYJ7)
 ## Code/Repo
 - [Inverse-Reinforcement-Learning](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
 ## Paper
