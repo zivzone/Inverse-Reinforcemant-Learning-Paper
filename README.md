@@ -12,8 +12,8 @@
 ## Code/Repo
 - [Inverse-Reinforcement-Learning](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
 ## Paper
-1. Algorithms for Inverse Reinforcement Learning
-2. Apprenticeship Learning via Inverse Reinforcement Learning
+1. Algorithms for Inverse Reinforcement Learning [v]
+2. Apprenticeship Learning via Inverse Reinforcement Learning [v]
 3. Maximum Margin Planning
 4. Maximum Entropy Inverse Reinforcement Learning
 5. Nonlinear Inverse Reinforcement Learning with Gaussian Processes
