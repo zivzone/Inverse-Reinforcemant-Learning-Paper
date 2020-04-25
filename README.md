@@ -44,5 +44,5 @@
 30. MaxEnt IRL with neural net reward function, known dynamics(Wulfmeier et al)
 31. Toward Diverse Text Generation with Inverse Reinforcement Learning(IJCAI 2018; Zhan Shi, Xinchi Chen, Xipeng Qiu, Xuanjing Huang)
 32. [Neural inverse reinforcement learning in autonomous navigation](https://www.sciencedirect.com/science/article/pii/S0921889015301652?via%3Dihub)(RSA 2016)
-  - [Slide](https://docs.google.com/presentation/d/1S5GAqYmC_Hzf1uZ5u8uOVEpFPTAB4EMFc1n50i1eQ5I/edit?usp=sharing)
+    - [Slide](https://docs.google.com/presentation/d/1S5GAqYmC_Hzf1uZ5u8uOVEpFPTAB4EMFc1n50i1eQ5I/edit?usp=sharing)
 33. [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/pdf/1612.03653.pdf)(NIPS workshop 2016; )
