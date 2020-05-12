@@ -46,3 +46,4 @@
 32. (**Done**)[Neural inverse reinforcement learning in autonomous navigation](https://www.sciencedirect.com/science/article/pii/S0921889015301652?via%3Dihub)(RSA 2016)
     - [Slide](https://docs.google.com/presentation/d/1S5GAqYmC_Hzf1uZ5u8uOVEpFPTAB4EMFc1n50i1eQ5I/edit?usp=sharing)
 33. [Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks](https://arxiv.org/pdf/1612.03653.pdf)(NIPS workshop 2016; )
+34. [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/pdf/1603.00448.pdf)(ICML 2016; Chelsea Finn, Sergey Levine, Pieter Abbeel)
