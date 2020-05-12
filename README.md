@@ -14,7 +14,7 @@
 ## Paper
 1. (**Done**)Algorithms for Inverse Reinforcement Learning [v]
 2. (**Done**)Apprenticeship Learning via Inverse Reinforcement Learning [v]
-3. Maximum Margin Planning [v]
+3. (**Done**)Maximum Margin Planning [v]
 4. Maximum Entropy Inverse Reinforcement Learning [v]
 5. Nonlinear Inverse Reinforcement Learning with Gaussian Processes
 6. Maximum Entropy Deep Inverse Reinforcement Learning
